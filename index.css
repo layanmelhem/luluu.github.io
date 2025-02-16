@@ -1,0 +1,56 @@
+body{
+    background-image: url("website.jpg");
+    background-size:cover;
+    background-repeat: no-repeat
+    
+}
+
+.square{
+background-color: #cfb4964d;
+border-radius: 12px;
+width: 300px;
+height: 320px;
+position: absolute;
+margin: 100px;
+text-align: center;
+font-size: 30px;
+margin-left: 300px
+}
+
+.username,.pass{
+    width:15%;
+    height: 250%;
+    margin-left: 321px;
+    margin-bottom: 0px;
+    position: relative;
+    padding:8px
+
+}
+
+.username{
+    margin-top: 180px
+}
+
+.b
+{
+    background-color: #dfcfc0;
+    border-color:#dfcfc0 ;
+    cursor: pointer;
+    width: 113px;
+    position:relative;
+    padding:10px;
+    border-radius: 10px;
+    margin-left: 375px
+
+}
+.check{
+    margin-left: 315px;
+    position: relative
+}
+
+.checkpass{
+    margin-left: 470px;
+    margin-top: -18px
+}
+
+
